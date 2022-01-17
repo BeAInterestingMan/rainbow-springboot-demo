@@ -1,0 +1,9 @@
+server:
+  port: 8082
+
+rocketmq:
+
+  producer:
+    group: MY_TEST_GROUP
+  name-server: 119.3.37.125:9876
+
