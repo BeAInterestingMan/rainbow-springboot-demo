@@ -19,6 +19,9 @@
     <modules>
         <module>springboot-rocketmq-demo</module>
         <module>springboot-es-demo</module>
+        <module>springboot-redis-demo</module>
+        <module>springboot-swagger-demo</module>
+        <module>springboot-oss-demo</module>
     </modules>
     <dependencies>
         <dependency>
