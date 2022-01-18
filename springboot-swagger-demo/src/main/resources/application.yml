@@ -1,0 +1,6 @@
+server:
+  port: 8883
+
+
+api:
+  enable: false
